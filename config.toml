@@ -1,8 +1,7 @@
 # The URL the site will be built for
 base_url = "https://distracted-einstein-badfeb.netlify.com/"
 
-title = "読書感想文"
-# a description; you can use markdown here if you like
+title = "BOOKS I/O"
 description="読了したメモを残す"
 default_language = "ja"
 
@@ -22,12 +21,12 @@ build_search_index = false
 
 [extra]
 # theme options, (Submit an issue if any social network you may want is missing here: https://github.com/InsidiousMind/Ergo/issues)
-profile = "profile.svg" # the name of the profile picture in static/img/
+profile = "prof.jpg" # the name of the profile picture in static/img/
 website = "harinoma.info"
 github = "enyuka"
 twitter = "24guchia"
 # linkedin = ""
-email = "24guchia1@gmail.com"
+# email = "24guchia1@gmail.com"
 # instagram = ""
 # keybase = ""
 # reddit = ""

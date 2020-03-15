@@ -2,9 +2,11 @@
 title="読了 スイッチ！"
 date=2020-03-10
 category="読了"
+[taxonomies]
+tags=["rust", "web"]
+[extra]
+img="switch"
 +++
-
-# 読了 スイッチ!
 
 [スイッチ！](https://amzn.to/2VZ1qPV)を読了しました。
 2020年読了本 5冊目。
