@@ -124,6 +124,7 @@
 {% endmacro social_signal %}
 
 {% macro toc() %}
+{% if page.toc %}
 <ul>
     {% for h1 in page.toc %}
     <li>
@@ -140,4 +141,5 @@
     </li>
     {% endfor %}
 </ul>
+{% endif %}
 {%endmacro toc %}
