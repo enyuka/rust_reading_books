@@ -1,4 +1,12 @@
-# 読了 理論と実践 スポーツ栄養学
++++
+title="読了 理論と実践 スポーツ栄養学"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="sports-nutrition"
++++
 
 [理論と実践 スポーツ栄養学](https://amzn.to/2QpF7iU)を読了しました。
 2019年読了本47冊目。

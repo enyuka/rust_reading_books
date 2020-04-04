@@ -1,4 +1,12 @@
-# 読了 決定版　栄養学の基本がまるごとわかる事典
++++
+title="読了 決定版　栄養学の基本がまるごとわかる事典"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="nutrition-basic"
++++
 
 [決定版　栄養学の基本がまるごとわかる事典](https://amzn.to/2UkUnih)を読了しました。
 2019年読了本46冊目。

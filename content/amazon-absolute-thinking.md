@@ -1,4 +1,12 @@
-# amazonの絶対思考　常に、「普通という基準」を作り変える
++++
+title="amazonの絶対思考　常に、「普通という基準」を作り変える"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="amazon-absolute-thinking"
++++
 
 [amazonの絶対思考　常に、「普通という基準」を作り変える](https://amzn.to/3a3XqSC)を読了しました。
 2020年読了本3冊目。

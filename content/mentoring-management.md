@@ -1,4 +1,12 @@
-# 読了 メンタリング・マネジメントメンタリング・マネジメント
++++
+title="読了 メンタリング・マネジメントメンタリング・マネジメント"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="mentoring-management"
++++
 
 [メンタリング・マネジメント](https://amzn.to/33rBK04)を読了しました。
 2020年読了本4冊目。

@@ -1,4 +1,12 @@
-# 読了 入門 考える技術・書く技術――日本人のロジカルシンキング実践法
++++
+title="読了 入門 考える技術・書く技術――日本人のロジカルシンキング実践法"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="thinking-writing-technique"
++++
 
 [入門 考える技術・書く技術――日本人のロジカルシンキング実践法](https://amzn.to/2Wnv3ut)を読了しました。
 2019年読了本50冊目。

@@ -1,4 +1,12 @@
-# 読了 知らない人を採ってはいけない　新しい世界基準「リファラル採用」の教科書
++++
+title="読了 知らない人を採ってはいけない　新しい世界基準「リファラル採用」の教科書"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="refferal-recruitment-textbook"
++++
 
 [知らない人を採ってはいけない　新しい世界基準「リファラル採用」の教科書](https://amzn.to/2QqmRWy)を読了しました。
 2019年読了本49冊目。

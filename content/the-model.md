@@ -1,4 +1,12 @@
-# 読了 THE MODEL(MarkeZine BOOKS) マーケティング・インサイドセールス・営業・カスタマーサクセスの共業プロセス
++++
+title="読了 THE MODEL(MarkeZine BOOKS) マーケティング・インサイドセールス・営業・カスタマーサクセスの共業プロセス"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="the-model"
++++
 
 [THE MODEL(MarkeZine BOOKS) マーケティング・インサイドセールス・営業・カスタマーサクセスの共業プロセス](https://amzn.to/3d713Jb)を読了しました。
 2019年読了本44冊目。

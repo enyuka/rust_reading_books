@@ -1,4 +1,12 @@
-# 読了 人を動かす
++++
+title="読了 人を動かす"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="how-to-win-friends-and-influence-people"
++++
 
 [人を動かす](https://amzn.to/3dcDvTa)を読了しました。
 2019年読了本51冊目。2019年読み納め。

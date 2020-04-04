@@ -1,4 +1,12 @@
-# 読了 Rによるテキストマイニング入門
++++
+title="読了 Rによるテキストマイニング入門"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="text-mining-with-r"
++++
 
 [Rによるテキストマイニング入門](https://amzn.to/2UngaWC)を読了しました。
 2019年読了本45冊目。

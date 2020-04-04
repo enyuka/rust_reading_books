@@ -1,4 +1,12 @@
-# 読了 WebRTCをブラウザ外で使ってブラウザでできることを増やしてみませんか?
++++
+title="読了 WebRTCをブラウザ外で使ってブラウザでできることを増やしてみませんか?"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="use-webrtc-out-of-brower"
++++
 
 [WebRTCをブラウザ外で使ってブラウザでできることを増やしてみませんか?](https://tnoho.booth.pm/items/1572872)を読了しました。
 2019年読了本52冊目。

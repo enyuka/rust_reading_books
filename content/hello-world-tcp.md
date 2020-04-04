@@ -1,4 +1,12 @@
-# 読了 TCP技術入門 ――進化を続ける基本プロトコル
++++
+title="読了 TCP技術入門 ――進化を続ける基本プロトコル"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="hello-world-tcp"
++++
 
 [TCP技術入門 ――進化を続ける基本プロトコル](https://amzn.to/38WvuyF)を読了しました。
 2021年読了本1冊目。

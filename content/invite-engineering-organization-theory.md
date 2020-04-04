@@ -1,4 +1,12 @@
-# 読了 エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング
++++
+title="読了 エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="invite-engineering-organization-theory"
++++
 
 [エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング](https://amzn.to/2QoYAA6)を読了しました。
 2020年読了本2冊目。

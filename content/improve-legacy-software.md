@@ -1,4 +1,12 @@
-# 読了 レガシーソフトウェア改善ガイド
++++
+title="読了 レガシーソフトウェア改善ガイド"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="improve-legacy-software"
++++
 
 [レガシーソフトウェア改善ガイド](https://amzn.to/2Qq60TA)を読了しました。
 2019年読了本48冊目。

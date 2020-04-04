@@ -1,4 +1,12 @@
-# 読了 ヘルシープログラマ
++++
+title="読了 ヘルシープログラマ"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="healthy-programmer"
++++
 
 ヘルシープログラマを読了しました。
 2019年読了本40冊目。

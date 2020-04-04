@@ -1,4 +1,12 @@
-# 読了 入門リモートワーク
++++
+title="読了 入門リモートワーク"
+date=yyyy-mm-dd
+category="読了"
+[taxonomies]
+tags=[""]
+[extra]
+img="hello-world-remote-work"
++++
 
 入門リモートワークを読了しました。
 2019年読了本41冊目。
