@@ -19,7 +19,12 @@
         <h1 class="article_title" >
           <a href="{{page.permalink}}"  id="article_link" >{{page.title}}</a>
         </h1>
-          {% if page.date %}
+        {% if page.extra.img %}
+          <div class="eyecatch">
+            <img src="/img/content/{{ page.extra.img }}.jpg"/>
+          </div>
+        {% endif %}
+        {% if page.date %}
             {{ macros::frontmatter(classes="", date=page.date, word_count=page.word_count, read_time=page.reading_time) }}
           {% else %}
             {{ macros::frontmatter(classes="", date="", word_count=page.word_count, read_time=page.reading_time) }}
@@ -34,8 +39,6 @@
     {% endfor %}
 </section>
 {% endblock content %}
-
-
 
 {% block pagination %}
   <nav class="pagination">
