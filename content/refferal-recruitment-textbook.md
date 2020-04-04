@@ -1,6 +1,6 @@
 +++
 title="読了 知らない人を採ってはいけない　新しい世界基準「リファラル採用」の教科書"
-date=yyyy-mm-dd
+date=2019-12-14
 category="読了"
 [taxonomies]
 tags=[""]

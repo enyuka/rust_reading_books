@@ -1,6 +1,6 @@
 +++
 title="読了 スポーツ栄養学: 科学の基礎から「なぜ?」にこたえる"
-date=yyyy-mm-dd
+date=2019-10-31
 category="読了"
 [taxonomies]
 tags=[""]

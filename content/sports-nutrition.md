@@ -1,6 +1,6 @@
 +++
 title="読了 理論と実践 スポーツ栄養学"
-date=yyyy-mm-dd
+date=2019-12-07
 category="読了"
 [taxonomies]
 tags=[""]

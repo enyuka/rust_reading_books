@@ -1,6 +1,6 @@
 +++
 title="読了 ヘルシープログラマ"
-date=yyyy-mm-dd
+date=2019-10-25
 category="読了"
 [taxonomies]
 tags=[""]

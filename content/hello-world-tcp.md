@@ -1,6 +1,6 @@
 +++
 title="読了 TCP技術入門 ――進化を続ける基本プロトコル"
-date=yyyy-mm-dd
+date=2020-01-25
 category="読了"
 [taxonomies]
 tags=[""]

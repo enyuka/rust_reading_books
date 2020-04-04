@@ -1,6 +1,6 @@
 +++
 title="読了 レガシーソフトウェア改善ガイド"
-date=yyyy-mm-dd
+date=2019-12-12
 category="読了"
 [taxonomies]
 tags=[""]

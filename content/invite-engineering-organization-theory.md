@@ -1,6 +1,6 @@
 +++
 title="読了 エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング"
-date=yyyy-mm-dd
+date=2020-01-25
 category="読了"
 [taxonomies]
 tags=[""]

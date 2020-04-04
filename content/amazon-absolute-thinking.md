@@ -1,6 +1,6 @@
 +++
 title="amazonの絶対思考　常に、「普通という基準」を作り変える"
-date=yyyy-mm-dd
+date=2020-01-30
 category="読了"
 [taxonomies]
 tags=[""]

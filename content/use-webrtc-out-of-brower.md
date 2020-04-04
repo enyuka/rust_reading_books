@@ -1,6 +1,6 @@
 +++
 title="読了 WebRTCをブラウザ外で使ってブラウザでできることを増やしてみませんか?"
-date=yyyy-mm-dd
+date=2019-12-31
 category="読了"
 [taxonomies]
 tags=[""]

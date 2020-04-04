@@ -1,6 +1,6 @@
 +++
 title="読了 入門リモートワーク"
-date=yyyy-mm-dd
+date=2019-10-27
 category="読了"
 [taxonomies]
 tags=[""]

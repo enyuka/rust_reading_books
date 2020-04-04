@@ -1,6 +1,6 @@
 +++
 title="読了 入門 考える技術・書く技術――日本人のロジカルシンキング実践法"
-date=yyyy-mm-dd
+date=2019-12-17
 category="読了"
 [taxonomies]
 tags=[""]

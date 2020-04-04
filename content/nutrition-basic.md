@@ -1,6 +1,6 @@
 +++
 title="読了 決定版　栄養学の基本がまるごとわかる事典"
-date=yyyy-mm-dd
+date=2019-12-01
 category="読了"
 [taxonomies]
 tags=[""]

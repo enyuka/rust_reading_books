@@ -1,6 +1,6 @@
 +++
 title="読了 カスタマーサクセス――サブスクリプション時代に求められる「顧客の成功」10の原則"
-date=yyyy-mm-dd
+date=2019-11-02
 category="読了"
 [taxonomies]
 tags=[""]

@@ -1,6 +1,6 @@
 +++
 title="読了 メンタリング・マネジメントメンタリング・マネジメント"
-date=yyyy-mm-dd
+date=2020-02-04
 category="読了"
 [taxonomies]
 tags=[""]
