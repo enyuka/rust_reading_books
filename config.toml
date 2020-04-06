@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://distracted-einstein-badfeb.netlify.com/"
+base_url = "https://books-io.info/"
 
 title = "BOOKS I/O"
 description="読了したメモを残す"
