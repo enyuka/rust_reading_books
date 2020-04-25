@@ -36,37 +36,37 @@
   <!-- ogp -->
   <meta property="og:type" content="article"/>
   {% if page.title %}
-  <meta property="og:title" content="{{ page.title }} | {{ config.title }}"/>
+  <meta property="og:title" content="{{ page.title | safe }} | {{ config.title | safe }}"/>
   {% else %}
-  <meta property="og:title" content="{{ config.title }}"/>
+  <meta property="og:title" content="{{ config.title | safe }}"/>
   {% endif %}
 
-  {% if page.summary %}
-  <meta property="og:description"
-        content="{{ page.summary | safe }}"/>
-  {% else %}
+  {% if page.content %}
   <meta property="og:description"
         content="{{ page.content | striptags | truncate | safe }}"/>
+  {% else %}
+  <meta property="og:description"
+        content="{{ config.description }}"/>
   {% endif %}
 
   {% if page.permalink %}
-  <meta property="og:url" content="{{ page.permalink }}"/>
+  <meta property="og:url" content="{{ page.permalink | safe }}"/>
   {% else %}
-  <meta property="og:url" content="{{ config.base_url }}"/>
+  <meta property="og:url" content="{{ config.base_url | safe }}"/>
   {% endif %}
 
-  <meta property="og:site_name" content="{{ config.title }}"/>
+  <meta property="og:site_name" content="{{ config.title | safe }}"/>
 
   {% if page.extra.img %}
   <meta property="og:image"
-        content="{{ config.base_url }}/img/content/{{ page.extra.img }}.jpg"/>
+        content="{{ config.base_url | safe }}img/content/{{ page.extra.img }}.jpg"/>
   <meta property="og:image:secure_url"
-        content="{{ config.base_url }}/img/content/{{ page.extra.img }}.jpg"/>
+        content="{{ config.base_url | safe }}img/content/{{ page.extra.img }}.jpg"/>
   {% else %}
   <meta property="og:image"
-        content="{{ config.base_url }}/img/prof.jpg"/>
+        content="{{ config.base_url | safe }}img/prof.jpg"/>
   <meta property="og:image:secure_url"
-        content="{{ config.base_url }}/img/prof.jpg"/>
+        content="{{ config.base_url | safe }}img/prof.jpg"/>
   {% endif %}
 
   {% if page.date %}
@@ -79,25 +79,25 @@
   <meta name="twitter:domain" content="24guchia"/>
 
   {% if page.title %}
-  <meta name="twitter:title" content="{{ page.title}} | {{ config.title }}"/>
+  <meta name="twitter:title" content="{{ page.title | safe }} | {{ config.title | safe }}"/>
   {% else %}
-  <meta name="twitter:title" content="{{ config.title }}"/>
+  <meta name="twitter:title" content="{{ config.title | safe }}"/>
   {% endif %}
 
-  {% if page.summary %}
-  <meta name="twitter:description"
-        content="{{ page.summary | safe }}"/>
-  {% else %}
+  {% if page.content %}
   <meta name="twitter:description"
         content="{{ page.content | striptags | truncate | safe }}"/>
+  {% else %}
+  <meta name="twitter:description"
+        content="{{ config.description }}"/>
   {% endif %}
 
   {% if page.extra.img %}
   <meta name="twitter:image"
-        content="{{ config.base_url }}/img/content/{{ page.extra.img }}.jpg"/>
+        content="{{ config.base_url | safe }}img/content/{{ page.extra.img }}.jpg"/>
   {% else %}
   <meta name="twitter:image"
-        content="{{ config.base_url }}/img/prof.jpg"/>
+        content="{{ config.base_url | safe }}img/prof.jpg"/>
   {% endif %}
 
   {% endblock head %}
