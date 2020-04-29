@@ -83,6 +83,10 @@ pre {
     word-wrap: break-word;
 }
 
+pre > span {
+    font-size: 1.2em;
+}
+
 blockquote {
     padding-left: 10px;
     padding-right: 10px;
@@ -102,7 +106,7 @@ hr {
 article {
     a {
         border-bottom: 2px solid $outline;
-        color: $text;
+        color: #0366D6;
     }
     a:link {
         text-decoration: none;
@@ -450,4 +454,10 @@ nav.pagination {
     background-color: $accent;
     color: $background;
     border: 1px solid $accent;
+}
+
+code {
+    font-size: 1.3em;
+    background: linear-gradient(transparent 60%, #c1e0ff 75%);
+    font-weight: bold;
 }
