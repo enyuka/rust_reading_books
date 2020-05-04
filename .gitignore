@@ -1,4 +1,4 @@
 public/*
 .idea/
-md2netlify/
 /**/.DS_Store
+/**/node_modules
