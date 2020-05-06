@@ -6,3 +6,6 @@ pre-commit:
     prh:
       glob: "content/*.{md}"
       run: prh --verify {staged_files}
+    textlint:
+      glob: "content/*.{md}"
+      run: textlint {staged_files}
