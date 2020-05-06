@@ -22,11 +22,15 @@ imports:
     # patternやexpectedに指定する文字列は --rules-yaml で得られるパース後の表現を使うこと
     # ignoreRules:
       # pattern: /a/ と等価
-      # - /a/ 
+      # - /a/
       # - pattern:  /a/
       # - expected: /b/
 
 rules:
+  - expected: WebRTC
+  - expected: Twilio
+  - expected: Twilio
+    pattern:  "/[tT]willio/g"
 
   # 大文字小文字全角半角の統一
   - expected: Cookie
