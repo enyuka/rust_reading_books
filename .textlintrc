@@ -3,6 +3,7 @@
     "preset-ja-technical-writing": true,
     "max-ten": {
         "max" : 3
-    }
+    },
+    "preset-jtf-style": true
   }
 }
