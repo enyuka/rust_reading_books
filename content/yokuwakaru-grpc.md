@@ -8,7 +8,7 @@ tags=[""]
 img="yokuwakaru-grpc"
 +++
 
-[よくわかるgRPC](https://booth.pm/ja/items/1557285)を読了しました。2020 年読了本 11 冊目。
+[よくわかるgRPC](https://booth.pm/ja/items/1557285)を読了しました。2020 年読了本 12 冊目。
 
 ## 最初のまとめ
 
