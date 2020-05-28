@@ -34,6 +34,11 @@ const convertContent = (filepath, args) => {
   date.setTime(date.getTime() + 1000 * 60 * 60 * 9);
   date = date.toISOString().split('T')[0];
 
+  // 画像のパスをローカルのパスからサイト上で利用可能なパスに置換する
+  // 例: ![hoge](../static/img/hoge.jpg) を ![hoge](/img/hoge.jpg) にする
+  const img_regex = /\.\.\/static/g;
+  text = text.replace(img_regex, '');
+
   // tags の設定
   let tags = '';
   args.forEach((arg) => {
