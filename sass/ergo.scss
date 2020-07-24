@@ -104,10 +104,6 @@ hr {
 }
 
 article {
-    a {
-        border-bottom: 2px solid $outline;
-        color: #0366D6;
-    }
     a:link {
         text-decoration: none;
         transition-property: all;
