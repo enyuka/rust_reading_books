@@ -2,7 +2,7 @@
 base_url = "https://books-io.info/"
 
 title = "BOOKS I/O"
-description="読了したメモを残す"
+description="読了したメモを残す。積読リストにある本をこれから読む予定です。"
 default_language = "ja"
 
 highlight_theme = "solarized-light"

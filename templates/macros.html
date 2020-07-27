@@ -10,6 +10,7 @@
 <!-- classes=any extra styling, bsize=buttonsize, extra=config.extra, siteurl=config.base_url -->
 {% macro social_list(classes, bsize, extra, rss, siteurl) %}
 <ul class="social_list {{classes}}" >
+    <li class="button {{bsize}} font_faint"><a href="https://www.amazon.co.jp/hz/wishlist/ls/JQACN84DHKAW?&sort=priority&viewType=list" target="_blank">積読リスト</a></li>
     {% if extra.website %}
     <li class="button {{bsize}} font_faint"><a href="https://{{extra.website}}" target="_blank">{{extra.website}}</a></li>
     {% endif %}
