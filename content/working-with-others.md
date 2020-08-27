@@ -10,8 +10,6 @@ img="working-with-others"
 
 [他者と働く](https://amzn.to/2Er1QrS)を読了しました。2020 年読了本 23 冊目。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=birdmangai-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07Y5FF3M4&linkId=81fb492c121839308574efb36099baf8"></iframe>
-
 ## 最初のまとめ
 
 * 相手のことを理解できない、というメタ認知を得ることが相手のことを理解するにあたって重要
