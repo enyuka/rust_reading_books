@@ -2,7 +2,6 @@
 title=" 読了 調査的面接の技法"
 date=2020-10-11
 category="読了"
-draft=true
 [taxonomies]
 tags=[""]
 [extra]
