@@ -1,6 +1,6 @@
 +++
 title=" 読了 最短最速で目標を達成するOKRマネジメント入門"
-date=2020-10-10
+date=2020-10-22
 category="読了"
 [taxonomies]
 tags=[""]
@@ -8,7 +8,7 @@ tags=[""]
 img="hello-world-okr"
 +++
 
-[最短最速で目標を達成するOKRマネジメント入門](https://amzn.to/2ZU10vt)を読了しました。2020 年読了本 25 冊目。
+[最短最速で目標を達成するOKRマネジメント入門](https://amzn.to/2ZU10vt)を読了しました。2020 年読了本 26 冊目。
 
 ## 最初のまとめ
 
