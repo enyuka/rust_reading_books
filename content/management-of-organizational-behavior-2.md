@@ -16,7 +16,7 @@ img="management-of-organizational-behavior-2"
 
 [行動科学の展開の要約 第 1 章 マネジメント](https://books-io.info/management-of-organizational-behavior-1/)
 
-続いて第 2 章の「意欲と行動」です。
+続いて第 2 章の「意欲と行動」を要約します。
 
 ## 最初のまとめ
 
