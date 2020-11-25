@@ -8,7 +8,7 @@ tags=[""]
 img="start-up-finance"
 +++
 
-[起業のファイナンス増補改訂版](https://amzn.to/38UQDgf)を読了しました。2020 年読了本  冊目。
+[起業のファイナンス増補改訂版](https://amzn.to/38UQDgf)を読了しました。2020 年読了本 33 冊目。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=birdmangai-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B011HON7B6&linkId=27c07ab5421bcc23cc6bb415962fbab9"></iframe>
 
