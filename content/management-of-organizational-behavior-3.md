@@ -94,4 +94,8 @@ X 仮説的な従業員ばかりいる状況で長く続けていると、感覚
 
 意欲を育む状況がなぜ必要でどのような理論があり、結論どのような特徴があるかがまとまっている章です。従業員や部下から意見が上がってこないと嘆くマネージャーやリーダーに読んでもらいたい内容でした。
 
+続きの第 4 章はこちら。
+
+[行動科学の展開の要約 第 4 章 リーダーシップ 展望](https://books-io.info/management-of-organizational-behavior-4/)
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=birdmangai-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4820116843&linkId=9cfa3a02d9a207096d2e50aa06a2ba80"></iframe><br>
